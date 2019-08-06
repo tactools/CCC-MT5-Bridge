@@ -3,7 +3,7 @@ Trade your Metatrader account from Telegram app within https://t.me/cryptocopy c
 
 # Commands
 
-| Telegram Keyboard Commands | Description |
+|  Description | Telegram Keyboard Commands|
 | ----------- | ----------- |
 |Price | /p |
 |Chart | /c | 
