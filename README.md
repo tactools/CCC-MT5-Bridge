@@ -2,7 +2,7 @@
 Trade your Metatrader account from Telegram app within https://t.me/cryptocopy chatroom
 
 # Commands
-
+|======|======|
 |Price | /p |
 |Chart | /c | 
 |OrderBook| /book | 
